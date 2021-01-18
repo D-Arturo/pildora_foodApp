@@ -1,0 +1,8 @@
+1) Diseño inicial en Figma de cómo queremos que se vea la/las páginas. Preparar
+2) Generar los "protones": colores principales, fuente de texto... etc.
+3) Preparar una plantilla/paleta de todos esos elementos básicos. Como de acceso rápido
+4) Hacer el diseño más aproximado de las estructuras de los elementos: Botones, contadores, menús... 
+	Inspeccionando en Figma (arriba a la derecha) se pueden ver las características css de los elementos. Para primera aproximación.
+5) Estructura básica de html -> etiquetas principales: header,main,footer... -> elementos contenidos: header,section,article... -> 
+  -> elementos en detalle: buttons, h, p, text, input
+6) Correlacionar esa estructura html con sus estilos de css siguiendo el atomic design

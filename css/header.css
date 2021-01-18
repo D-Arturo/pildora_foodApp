@@ -1,0 +1,37 @@
+
+header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 2% 5%;
+}
+
+header section{
+    margin: 0;
+    padding: 0;    
+}
+
+header section h1{
+    font-size: 3vh;
+    line-height: 33px;
+    padding-bottom: 2vh;
+}
+
+header section p{
+    font-weight: 500;
+    font-size: 1.5vh;
+    letter-spacing: 0.07em;
+    color: #B4B4B4;
+    
+}
+
+header figure{
+    
+}
+
+header figure img{
+    margin:auto;
+    width: 22vw;
+    height: 12vw;
+}
