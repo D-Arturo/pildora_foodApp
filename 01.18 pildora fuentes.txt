@@ -1,0 +1,11 @@
+pildora 18/01 - Tipografias
+
+Dafont.com - descargar un archivo - importarlo al archivo mediante @font-face
+Google fonts - @import al css
+
+Iconos:
+Font awesome
+
+
+Slide documentación
+https://docs.google.com/presentation/d/1zkVOsKiEomaq0cKM-5OrymFK2ZMzNGSKylmv4lWNhgk/edit#slide=id.g5e506fb916_0_290
