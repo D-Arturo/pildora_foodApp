@@ -1,4 +1,4 @@
-footer {
+.footer-bar {
     height: 10vh;
     width: 100%;
     background: #FAFAFA;
@@ -10,7 +10,7 @@ footer {
     filter: drop-shadow(0px -5px 10px #B4B4B4);
 }
 
-footer a {
+.footer-bar a {
     border-width: 0px;
     border-style: outset;
     border-image: initial;
@@ -18,7 +18,7 @@ footer a {
     cursor: alias;
 }
 
-footer button {
+.footer-bar button {
     background: #FF6900;
     width: 8vh;
     height: 8vh;
@@ -35,11 +35,11 @@ footer button {
     cursor: pointer;
 }
 
-footer button img {
+.footer-bar button img {
     width: 54%;
 }
 
-footer a img {
+.footer-bar a img {
     height: 5vh;
     width: 4.5vh;
     position: relative;

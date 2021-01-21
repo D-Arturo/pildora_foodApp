@@ -1,5 +1,5 @@
 
-header {
+.webInfo {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
@@ -7,18 +7,18 @@ header {
     padding: 2% 5%;
 }
 
-header section{
+.webInfo__webTitle {
     margin: 0;
     padding: 0;    
 }
 
-header section h1{
+.webInfo__webTitle h1 {
     font-size: 3vh;
     line-height: 33px;
     padding-bottom: 2vh;
 }
 
-header section p{
+.webInfo__webTitle p {
     font-weight: 500;
     font-size: 1.5vh;
     letter-spacing: 0.07em;
@@ -26,12 +26,7 @@ header section p{
     
 }
 
-header figure{
-    
-}
-
-header figure img{
-    margin:auto;
+.webInfo__webImage img {
     width: 22vw;
     height: 12vw;
 }

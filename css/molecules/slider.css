@@ -1,34 +1,37 @@
 
 
-main section:first-child {
-    display: inline-block;    
-    white-space: nowrap;
-    width: 100%;
+section.slider {
+    display:flex;
+    flex-wrap: nowrap;
+    overflow:auto; 
+    margin: auto;
+    width: 90%;
     height: 20vh;
     padding-left: 1rem;
     cursor: grab;
 
 }
 
-main section figure{
+section.slider figure {
     display: inline-flex;
     flex-direction: column;    
     background: #ffff;
     width: 13vh;
+    min-width: 10vh;
     height: 16vh;
     margin: 1.6vh 1.3vh;
     border-radius: 13px;
     filter: drop-shadow(0px 5px 7px rgba(0, 0, 0, 0.2));
 }
 
-main section figure img {
+section.slider figure img {
     margin:auto;
     max-width: 8vh;
     padding-bottom: 1.5vh;
     
 }
 
-main section figure figcaption{
+section.slider figure figcaption{
     display: flex;
     justify-content: center;
     margin-bottom: 2vh;

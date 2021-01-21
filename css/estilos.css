@@ -1,7 +1,9 @@
-@import url('header.css');
-@import url('slider.css');
-@import url('selection.css');
-@import url('footer.css');
+@import url('/css/protons/protons.css');
+
+@import url('/css/molecules/header.css');
+@import url('/css/molecules/slider.css');
+@import url('/css/molecules/selection.css');
+@import url('/css/molecules/footer.css');
 
 
 * {

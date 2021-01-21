@@ -1,0 +1,19 @@
+{
+  "name": "proyecto-app-food",
+  "version": "1.0.0",
+  "description": "proyecto-app-food",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/D-Arturo/proyecto-app-food.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/D-Arturo/proyecto-app-food/issues"
+  },
+  "homepage": "https://github.com/D-Arturo/proyecto-app-food#readme"
+}

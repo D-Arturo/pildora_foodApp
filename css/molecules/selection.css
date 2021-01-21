@@ -44,26 +44,27 @@ main section article aside:nth-child(odd) {
 main section article aside p:nth-child(odd) {
   font-style: normal;
   font-weight: bold;
-  font-size: 20px;
+  font-size: 3vh;
   line-height: 15px;
   color: gold;
   padding-bottom: 3%;
 }
+
 main section article aside h2 {
   font-style: normal;
   font-weight: 600;
-  font-size: 14px;
+  font-size: 2.3vh;
   line-height: 14px;
   color: #000000;
   text-align: center;
   padding-top: 3%;
-  padding-bottom: 3%;
+  padding-bottom: 4%;
 }
 
 main section article aside h3 {
   font-style: normal;
   font-weight: normal;
-  font-size: 13px;
+  font-size: 1.9vh;
   line-height: 13px;
   color: rgba(0, 0, 0, 0.43);
   text-align: center;
@@ -73,7 +74,6 @@ main section article aside p:nth-child(even) {
   width: 35px;
   height: 30px;
   text-align: center;
-  font-size: 1px;
   font-size: 15px;
   border: none;
   color: black;
