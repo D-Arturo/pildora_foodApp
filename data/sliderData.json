@@ -1,0 +1,42 @@
+[
+  {
+    "img": "img/tapas.svg",
+    "imgAlt": "Tapas icon",
+    "title": "Tapas"
+  },
+  {
+    "img": "img/breakfast.svg",
+    "imgAlt": "Breakfast icon",
+    "title": "Desayunos"
+  }, 
+  {
+    "img": "img/salad.png",
+    "imgAlt": "Salad icon",
+    "title": "Ensaladas"
+  }, 
+  {
+    "img": "img/fastfood.svg",
+    "imgAlt": "Brunch icon",
+    "title": "Almuerzos"
+  }, 
+  {
+    "img": "img/dinner.svg",
+    "imgAlt": "Dinner icon",
+    "title": "Cena"
+  }, 
+  {
+    "img": "img/dessert.svg",
+    "imgAlt": "Dessert icon",
+    "title": "Postres"
+  }, 
+  {
+    "img": "img/bebidas.svg",
+    "imgAlt": "Drinks icon",
+    "title": "Bebidas"
+  }, 
+  {
+    "img": "img/all.svg",
+    "imgAlt": "All items icon",
+    "title": "Todos"
+  }
+]

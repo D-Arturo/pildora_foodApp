@@ -1,0 +1,88 @@
+[
+  {
+    "img": "img/productos/desayuno01.jpg",
+    "imgAlt": "Imagen desayuno",
+    "price": "15",
+    "title": "Desayuno de la casa",
+    "description": "Huevos, pancakes y tocino"
+  },
+  {
+    "img": "img/productos/ensalada01.jpg",
+    "imgAlt": "Imagen ensalada",
+    "price": "12",
+    "title": "Ensalada Cesar",
+    "description": "Con salsa ranchera"
+  },
+  {
+    "img": "img/productos/macarrones.jpg",
+    "imgAlt": "Plato de macarrones",
+    "price": "8",
+    "title": "Macarrones con queso",
+    "description": "Queso parmesano"
+  },
+  {
+    "img": "img/productos/Hamburguesa.jpg",
+    "imgAlt": "Imagen hamburguesa",
+    "price": "9",
+    "title": "Hamburguesa clásica",
+    "description": "Con queso Cheddar"
+  },
+  {
+    "img": "img/productos/pollo.jpg",
+    "imgAlt": "Imagen pollo asado",
+    "price": "8",
+    "title": "Pollo asado",
+    "description": "Con papas fritas"
+  },
+  {
+    "img": "img/productos/pizza.jpg",
+    "imgAlt": "Imagen pizza",
+    "price": "5",
+    "title": "Pizza Margarita",
+    "description": "Tomate, mozzarella y albahaca"
+  },
+  {
+    "img": "img/productos/pescado.jpg",
+    "imgAlt": "Imagen pesacdo",
+    "price": "20",
+    "title": "Pescado a la plancha",
+    "description": "Pescado de temporada y verduras"
+  },
+  {
+    "img": "img/productos/pieLimon.jpg",
+    "imgAlt": "Imagen tarta de limón",
+    "price": "5",
+    "title": "Tarta de limón",
+    "description": "Casera"
+  },
+  {
+    "img": "mg/productos/cheesecake.jpg",
+    "imgAlt": "Imagen tarta de queso",
+    "price": "5",
+    "title": "Cheesecake",
+    "description": "Con frutos rojos"
+  },
+  {
+    "img": "img/productos/vinoTinto.jpg",
+    "imgAlt": "Imagen vino tinto",
+    "price": "3.5",
+    "title": "Vino tinto",
+    "description": "De la casa"
+  },
+  {
+    "img": "img/productos/vinoBlanco.jpg",
+    "imgAlt": "Imagen vino blanco",
+    "price": "3.5",
+    "title": "Vino blanco",
+    "description": "De la casa"
+  },
+  {
+    "img": "img/productos/cerveza.jpg",
+    "imgAlt": "Imagen cerveza",
+    "price": "2.5",
+    "title": "Cerveza",
+    "description": "De la casa"
+  }
+
+  
+]

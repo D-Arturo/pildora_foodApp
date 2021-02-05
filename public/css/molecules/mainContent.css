@@ -1,0 +1,97 @@
+.mainInfo {
+  background-color: #fdfdfd;
+  width: 100%;
+  height: 55vh;
+  overflow-x: auto;
+  padding-left: 3%;
+  padding-right: 3%;
+}
+
+.mainInfo__product {
+  width: 100%;
+  display: flex;
+  background: #ffffff;
+  justify-content: space-around;
+  align-items: center;
+  margin-bottom: 0.5rem;
+  padding-right: 3%;
+  padding-left: 3%;
+  position: relative;
+}
+
+.mainInfo__product img {
+  width: 24vw;
+  height: 28vw;
+  object-fit: cover;
+  border-radius: 15px;
+}
+
+/* En los aside van al revés (even-odd) porque la etiqueta img les "cambia el orden" al ser el primer hijo*/
+.mainInfo__product__description {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  width: 50vw;
+  align-items: center;
+}
+
+.mainInfo__product__selector {
+  display: flex;
+  justify-content: center;
+  flex-direction: column-reverse;
+}
+
+.mainInfo__product__description p {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 3vh;
+  line-height: 15px;
+  color: gold;
+  padding-bottom: 3%;
+}
+
+.mainInfo__product__description h2 {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 2.3vh;
+  line-height: 14px;
+  color: #000000;
+  text-align: center;
+  padding-top: 3%;
+  padding-bottom: 4%;
+}
+
+.mainInfo__product__description h3 {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 1.9vh;
+  line-height: 13px;
+  color: rgba(0, 0, 0, 0.43);
+  text-align: center;
+}
+
+.mainInfo__product__selector p {
+  width: 35px;
+  height: 30px;
+  text-align: center;
+  font-size: 15px;
+  border: none;
+  color: black;
+  line-height: 25px;
+}
+
+.buttonMinus {
+  width: 35px;
+  height: 30px;
+  border-radius: 0px 0px 10px 10px;
+  border: none;
+  background: #ededef;
+}
+
+.buttonSum {
+  width: 35px;
+  height: 30px;
+  border-radius: 10px 10px 0px 0px;
+  border: none;
+  background: #ededef;
+}

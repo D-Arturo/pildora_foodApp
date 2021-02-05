@@ -1,0 +1,15 @@
+@import url('/css/protons/protons.css');
+
+@import url('/css/molecules/header.css');
+@import url('/css/molecules/slider.css');
+@import url('/css/molecules/mainContent.css');
+@import url('/css/molecules/footer.css');
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Raleway';
+}
+
